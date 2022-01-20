@@ -1,0 +1,28 @@
+/**
+ * Java 1. Homework 2
+ * @author Oleg
+ * @version 20.01.21
+ */
+ class lesson2
+    public static void main(String[] args) {
+        integer1020(10 20);
+        negPosInteger1(16);
+        negInteger1(-5);
+        cycle();
+    }
+    static void integer1020(int a, int b) {
+    System.out.println ("the sum is" sum (sum >= 10 && sum <= 20? "true" : "false"));
+    }
+    static void negPosInteger1(int d) {
+    if (d>=0) {
+    System.out.println("positive number");
+    else (d<0)
+    System.out.println("negative number")
+    }
+    static void negInteger1(int a) {
+    System.out.println ("the number is" - (a <=0? "true" : "false"));
+    }
+    static void cycle(int i, int a) {
+        for (int i = 0; i < a; i++);
+        System.out.println(i)
+    }
